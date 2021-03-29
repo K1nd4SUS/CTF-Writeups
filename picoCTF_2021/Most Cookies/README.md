@@ -17,7 +17,7 @@ $ flask-unsign  -d -c eyJ2ZXJ5X2F1dGgiOiJibGFuayJ9.YGHToA.jU3NZ3vRLx_5wWDCeqmR26
 {'very_auth': 'blank'}
 ```
 
-Going into the [server.py](server.py) we see that if `very_auth == admin` we get the flag.txt page, so let's find the key using the [word list](cookie) inside [server.py](server.py), encode the new cookie and send it
+Going into the [server.py](server.py) we see that if `very_auth == admin` we get the flag.html page, so let's find the key using the [word list](cookie) inside [server.py](server.py), encode the new cookie and send it
 
 ```console
 $ flask-unsign -u -c eyJ2ZXJ5X2F1dGgiOiJibGFuayJ9.YGHToA.jU3NZ3vRLx_5wWDCeqmR26hpOgo --wordlist cookie 
