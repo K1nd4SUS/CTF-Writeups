@@ -2,7 +2,7 @@
 
 ###### I sent out 2 invitations to all of my friends for my birthday! I'll know if they get stolen because the two invites look similar, and they even have the same md5 hash, but they are slightly different! You wouldn't believe how long it took me to find a collision. Anyway, see if you're invited by submitting 2 PDFs to my website. http://mercury.picoctf.net:20277/
 
-The site want 2 small PDF, if we try with some 400kB it return that they are to big. The second requirement is that the MD5 of the 2 files need to be the same. Fortunately we can find these file online (Thx [Corkami](https://github.com/corkami/collisions))
+The site want 2 small PDF, if we try with some 400kB PDFs it return that they are to big. The second requirement is that the MD5 of the 2 files need to be the same. Fortunately we can find these file online (Thx [Corkami](https://github.com/corkami/collisions))
 
 Let's try with [poeMD5_A](poeMD5_A.pdf) and [poeMD5_B](poeMD5_B.pdf)
 
