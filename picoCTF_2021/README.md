@@ -5,6 +5,7 @@ Title                            Category       Points  Flag
 -------------------------------- -------------- ------  -------------------------------------------------------
 Cookies                          Web exploit    5       picoCTF{3v3ry1_l0v3s_c00k135_94190c8a}      
 Most Cookies                     Web exploit    150     picoCTF{pwn_4ll_th3_cook1E5_22fe0842}
+It is my Birthday                Web exploit    100     picoCTF{c0ngr4ts_u_r_1nv1t3d_da36cc1b}
 Mod 26                           Crypto         10      picoCTF{next_time_I'll_try_2_rounds_of_rot13_aFxtzQWR}
 Mind your Ps and Qs              Crypto         20      picoCTF{sma11_N_n0_g0od_00264570}
 Easy Peasy                       Crypto         40      picoCTF{35ecb423b3b43472c35cc2f41011c6d2}
