@@ -9,6 +9,7 @@ Relatively Simple Algorithm        Crypto         actf{old_but_still_good_well_a
 Exclusive Cipher                   Crypto         actf{who_needs_aes_when_you_have_xor}
 sosig                              Crypto         actf{d0ggy!!!111!1}
 Keysar v2                          Crypto         actf{keyedcaesarmorelikesubstitution}
+Home Rolled Crypto                 Crypto         actf{no_bit_shuffling_is_trivial}
 FREE FLAGS!!1!!                    Reverse        actf{what_do_you_mean_bananas_arent_animals}
 Jailbreak:                         Reverse        actf{guess_kmh_still_has_unintended_solutions}
 Infinity Gauntlet:                 Reverse        actf{snapped_away_the_end}
