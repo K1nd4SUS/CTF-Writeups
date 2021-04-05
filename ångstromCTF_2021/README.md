@@ -14,21 +14,13 @@ Home Rolled Crypto                 Crypto         actf{no_bit_shuffling_is_trivi
 Follow the Currents                Crypto         actf{low_entropy_keystream}
 I'm so Random                      Crypto         actf{middle_square_method_more_like_middle_fail_method}
 FREE FLAGS!!1!!                    Reverse        actf{what_do_you_mean_bananas_arent_animals}
-<<<<<<< HEAD
 Jailbreak                          Reverse        actf{guess_kmh_still_has_unintended_solutions}
 Infinity Gauntlet                  Reverse        actf{snapped_away_the_end}
 Revex                              Reverse        actf{reGEx_1s_b3stEx_qzuy}
 lambda lambda                      Reverse        actf{3p1c_0n3_l1n3r_95}
 lockpicking                        Reverse        actf{this_is_how_lockpicking_works_right}
+Tranquil                           Binary         actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}
 stickystacks                       Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 RAIId Shadow Legends               Binary         actf{great_job!_speaking_of_great_jobs,_our_sponsor_audible...}
-=======
-Jailbreak:                         Reverse        actf{guess_kmh_still_has_unintended_solutions}
-Infinity Gauntlet:                 Reverse        actf{snapped_away_the_end}
-Revex:                             Reverse        actf{reGEx_1s_b3stEx_qzuy}
-lambda lambda:                     Reverse        actf{3p1c_0n3_l1n3r_95}
-Tranquil                           Binary         actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}
-stickystacks:                      Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 Jar                                Web            actf{you_got_yourself_out_of_a_pickle}
->>>>>>> 932abb5a7d7bb6fc251d6a47cdd8777901d5b640
 ```
