@@ -18,6 +18,7 @@ Jailbreak:                         Reverse        actf{guess_kmh_still_has_unint
 Infinity Gauntlet:                 Reverse        actf{snapped_away_the_end}
 Revex:                             Reverse        actf{reGEx_1s_b3stEx_qzuy}
 lambda lambda:                     Reverse        actf{3p1c_0n3_l1n3r_95}
+Tranquil                           Binary         actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}
 stickystacks:                      Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 Jar                                Web            actf{you_got_yourself_out_of_a_pickle}
 ```
