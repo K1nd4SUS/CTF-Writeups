@@ -13,13 +13,13 @@ First of all let's analyze the code, we have 3 interesting part:
 Some characters are blacklisted
 
 ```ruby
-	blacklist = ["-", "/", ";", "'", "\""]
+blacklist = ["-", "/", ";", "'", "\""]
 	
-	blacklist.each { |word|
-		if cols.include? word
-			return "beep boop sqli detected!"
-		end
-	}
+blacklist.each { |word|
+	if cols.include? word
+		return "beep boop sqli detected!"
+	end
+}
 ```
 
 Field `lim` and `off` must be numeric
