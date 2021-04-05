@@ -11,6 +11,7 @@ sosig                              Crypto         actf{d0ggy!!!111!1}
 Keysar v2                          Crypto         actf{keyedcaesarmorelikesubstitution}
 Home Rolled Crypto                 Crypto         actf{no_bit_shuffling_is_trivial}
 Follow the Currents                Crypto         actf{low_entropy_keystream}
+I'm so Random                      Crypto         actf{middle_square_method_more_like_middle_fail_method}
 FREE FLAGS!!1!!                    Reverse        actf{what_do_you_mean_bananas_arent_animals}
 Jailbreak:                         Reverse        actf{guess_kmh_still_has_unintended_solutions}
 Infinity Gauntlet:                 Reverse        actf{snapped_away_the_end}
