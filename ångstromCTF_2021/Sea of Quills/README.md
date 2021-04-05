@@ -37,7 +37,7 @@ There is also a `cols` field
 
 Given this information we probably need to do some SQL injection using the `cols` field
 
-In the `/explore` page we cannot see the `cols` field, but by analyzing and edit the HTML code we can remove the hidden tag 
+In the `/quills` page we cannot see the `cols` field, but by analyzing and edit the HTML code we can remove the hidden tag 
 
 ![](img1.png)
 ![](img2.png)
