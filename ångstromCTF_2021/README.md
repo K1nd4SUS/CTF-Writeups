@@ -2,7 +2,7 @@
 
 ```
 Title                              Category       Flag
----------------------------------- -------------- ------------------------------------------------------------------------------------
+---------------------------------- -------------- --------------------------------------------------------------------------------------------------------------
 Sanity Check                       Misc           actf{always_gonna_give_you_up}
 Archaic                            Misc           actf{thou_hast_uncovered_ye_ol_fleg}
 Fish                               Misc           actf{in_the_m0rning_laughing_h4ppy_fish_heads_in_th3_evening_float1ng_in_your_soup}
@@ -23,4 +23,5 @@ Tranquil                           Binary         actf{time_has_gone_so_fast_wat
 stickystacks                       Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 RAIId Shadow Legends               Binary         actf{great_job!_speaking_of_great_jobs,_our_sponsor_audible...}
 Jar                                Web            actf{you_got_yourself_out_of_a_pickle}
+Sea of Quills                      Web            actf{and_i_was_doing_fine_but_as_you_came_in_i_watch_my_regex_rewrite_f53d98be5199ab7ff81668df}
 ```
