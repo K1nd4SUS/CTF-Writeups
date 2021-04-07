@@ -16,7 +16,7 @@ Enter a string to encrypt: A
 c807cf076dddbc53cf17b5f26f87b879d219441b0ddf689789910fc8e130cf326279ecb3a850583fbc4b0cda4727bf5e3aa8a69d26d98b57
 ```
 
-So, the service take an input and return to us and encrypted text, let's try to give bigger input and see if something happen
+So, the service take an input and return to us an encrypted text, let's try to give bigger input and see if something happen
 
 ```console
 $ nc crypto.2021.chall.actf.co 21603
