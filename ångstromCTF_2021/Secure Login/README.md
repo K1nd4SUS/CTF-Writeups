@@ -10,8 +10,44 @@ Try to hack me at /problems/2021/secure_login on the shell server.
 
 Let's take a look to the code:
 
-![image](https://user-images.githubusercontent.com/72620139/114243744-6d697b80-998d-11eb-8a49-1560e698e80c.png)
+````
+#include <stdio.h>
 
+char password[128];
+
+void generate_password() {
+	FILE *file = fopen("/dev/urandom","r");
+	fgets(password, 128, file);
+	fclose(file);
+}
+
+void main() {
+	puts("Welcome to my ultra secure login service!");
+
+	// no way they can guess my password if it's random!
+	generate_password();
+
+	char input[128];
+	printf("Enter the password: ");
+	fgets(input, 128, stdin);
+
+	if (strcmp(input, password) == 0) {
+		char flag[128];
+
+		FILE *file = fopen("flag.txt","r");
+		if (!file) {
+		    puts("Error: missing flag.txt.");
+		    exit(1);
+		}
+
+		fgets(flag, 128, file);
+		puts(flag);
+	} else {
+		puts("Wrong!");
+	}
+}
+
+````
 
 The function fgets, doesn't seem vulnerable... But strcmp starts comparing the first character of each string. If they are equal to each other, it continues with the following pairs until the characters differ or until a terminating null-character is reached. 
 So if the two strings starts with the string terminator the function will return 0 because the two strings match up to the null character.
