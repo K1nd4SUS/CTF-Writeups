@@ -23,6 +23,7 @@ Revex                              Reverse        actf{reGEx_1s_b3stEx_qzuy}
 lambda lambda                      Reverse        actf{3p1c_0n3_l1n3r_95}
 Lockpicking                        Reverse        actf{this_is_how_lockpicking_works_right}
 Flag Submission Server             Reverse        actf{M0R3_CH3CKSUMS!!!}
+Secure Login                       Binary         actf{if_you_aint_bout_flags_then_i_dont_mess_with_yall}
 Tranquil                           Binary         actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}
 stickystacks                       Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 RAIId Shadow Legends               Binary         actf{great_job!_speaking_of_great_jobs,_our_sponsor_audible...}
