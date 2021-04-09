@@ -102,7 +102,7 @@ print(conn.recvline())
 
 conn.interactive()
 ```
-When the script is executed, the program print the flag
+When the script is executed, the program prints the flag
 
 ### Flag:
 `actf{if_you_aint_bout_flags_then_i_dont_mess_with_yall}`
