@@ -17,7 +17,7 @@ The function fgets, doesn't seem vulnerable... But strcmp starts comparing the f
 So if the two strings starts with the string terminator the function will return 0 because the two strings match up to the null character.
 
 We reach our goal! Let's write the script:
-
+````
 from pwn import *
 
 #connection
@@ -34,7 +34,7 @@ for x in range(1000):
 
 conn.interactive()
 conn.close()
-
+````
 
 
 #### **FLAG >>** `FLAG QUI`
