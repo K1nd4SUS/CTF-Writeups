@@ -15,16 +15,16 @@ Dobbiamo trovare dei numeri che soddisfino certe condizioni:
 * **Condizione 1:** `x == -x` \
 La soluzione è `0`.
 
-* **Condizione 1:** `x != x` \
+* **Condizione 2:** `x != x` \
 La soluzione è `NaN`.
 
-* **Condizione 1:** `x + 1 == x && x * 2 == x` \
+* **Condizione 3:** `x + 1 == x && x * 2 == x` \
 La soluzione è `inf`.
 
-* **Condizione 1:** `x + 1 == x && x * 2 != x` \
+* **Condizione 4:** `x + 1 == x && x * 2 != x` \
 La soluzione è `1e100`.
 
-* **Condizione 1:** `(1 + x) - 1 != 1 + (x - 1)` \
+* **Condizione 5:** `(1 + x) - 1 != 1 + (x - 1)` \
 La soluzione è `2^53`.
 
 Al termine otteniamo la flag.
