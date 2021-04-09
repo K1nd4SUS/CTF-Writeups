@@ -26,6 +26,7 @@ Flag Submission Server             Reverse        actf{M0R3_CH3CKSUMS!!!}
 Tranquil                           Binary         actf{time_has_gone_so_fast_watching_the_leaves_fall_from_our_instruction_pointer_864f647975d259d7a5bee6e1}
 stickystacks                       Binary         actf{well_i'm_back_in_black_yes_i'm_back_in_the_stack_bec9b51294ead77684a1f593}
 RAIId Shadow Legends               Binary         actf{great_job!_speaking_of_great_jobs,_our_sponsor_audible...}
+Checks				   Binary	  actf{if_you_aint_bout_flags_then_i_dont_mess_with_yall}
 Jar                                Web            actf{you_got_yourself_out_of_a_pickle}
 Sea of Quills                      Web            actf{and_i_was_doing_fine_but_as_you_came_in_i_watch_my_regex_rewrite_f53d98be5199ab7ff81668df}
 Sea of Quills 2                    Web            actf{the_time_we_have_spent_together_riding_through_this_english_denylist_c0776ee734497ca81cbd55ea}
