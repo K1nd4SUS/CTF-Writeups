@@ -4,7 +4,7 @@
 
 My other pickle challenges seem to be giving you all a hard time, so here's a [simpler one](https://jar.2021.chall.actf.co) to get you warmed up.
 
-[jar.py](jar.py), (pickle.jpg)[pickle.jpg], [Dockerfile](Dockerfile)
+[jar.py](jar.py), [pickle.jpg](pickle.jpg), [Dockerfile](Dockerfile)
 
 Hint: The Python [documentation](https://docs.python.org/3/library/pickle.html) for pickle has this big red box... I hope it's not important.
 
