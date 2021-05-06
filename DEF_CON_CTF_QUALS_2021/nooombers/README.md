@@ -525,7 +525,7 @@ So probably we need to use the option `9` in the last iteraction
 
 From the [interaction2.txt](interaction2.txt) we can see that there are 16 differen sequences, so two are missing, but we can try to do something with what we have
 
-The option `9` require 2 sequences in input and because we have 14 different possibilities we can try them all and see if there are 2 of them that are the solution
+The option `9` require 2 sequences in input and because we have 13 different possibilities we can try them all and see if there are 2 of them that are the solution
 
 ```python
 from pwn import *
