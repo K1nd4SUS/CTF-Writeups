@@ -14,8 +14,8 @@ You want to use one of our images? Sure, no problem. Just download image file, r
 Let's extract all the file with `7zip`
 
 Analyzing the file we find 3 interesting things 
-1. `SECRET_KEY=58703273357638792F423F4528482B4D6251655468566D597133743677397A24`
-2. `id_rsa`
+1. `SECRET_KEY=58703273357638792F423F4528482B4D6251655468566D597133743677397A24` from the file `7dabd7d32d701c6380d8e9f053d83d050569b063fbcf7ebc65e69404bed867a5.json`
+2. `image\ee6ac2faa564229d89130079d3c24dcb016b6818c2a8f3901ad2a7de1fdb0faf\layer.tar\root\.ssh\id_rsa`
 
 ```
 -----BEGIN OPENSSH PRIVATE KEY-----
@@ -59,8 +59,7 @@ vuYZEA==
 -----END OPENSSH PRIVATE KEY-----
 
 ```
-3. `cipher.bin` \
-[cipher.bin](cipher.bin)
+3. `cipher.bin` from `image\df6e2b0dba838bcc158171c209ae2c7b8aeec4a8638a2fa981abda520233a170\layer.tar\home\alice\cipher.bin`
 
 Let's convert the `id_rsa` from `OPENSSH PRIVATE KEY` to `RSA PRIVATE KEY` (as passphrase we can use the `SECRET_KEY`)
 
