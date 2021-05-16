@@ -12,6 +12,8 @@ Watching the video we hear a strange noise that starts at `1:33`, we can extract
 
 At first glance, nothing is found, but observing the spectrogram we find a QR code
 
+![](img3.png)
+
 ![](img1.png)
 
 Let's try to improve the image
