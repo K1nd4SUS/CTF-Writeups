@@ -8,7 +8,7 @@ Someone stumbled upon this file in a secure server. What could it mean?
 
 ## Solution
 
-Watching the video we hear a strange noise that starts at `1:33`, we can extract the audio and try to open it with audacity 
+Watching the video we hear a strange noise that starts at `1:33`, we can extract the audio using `ffmpeg` and try to open it with audacity 
 
 At first glance, nothing is found, but observing the spectrogram we find a QR code
 
