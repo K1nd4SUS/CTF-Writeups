@@ -12,7 +12,7 @@ Read me to get the flag.
 
 First step let's decompile the binary with Ghidra. In the `main` function (the binary is not stripped) we can easily find the function `vuln` and after a brief looking it was easy to spot the format string vulnerability: there is a `printf` function with a user-controlled buffer.
 
-![img1](/home/teozoia/Desktop/WRITEUPS/Readme/img/img1.png)
+![img1](img/img1.png)
 
 The idea is send some `%x` / `%d` / ` %s` / `%p` in order to dump the flag just readed and placed in the `flag_buffer` array.
 
