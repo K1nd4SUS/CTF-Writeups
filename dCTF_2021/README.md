@@ -8,7 +8,7 @@ Dragon                           Misc           dctf{N0w_Y0u_s3e_m3}
 Don't let it run                 Misc           dctf{pdf_1nj3ct3d}
 Hidden message                   Misc           dctf{sTeg0noGr4Phy_101}
 Leak Spin                        Misc           dctf{I_L1k3_L1evaAn_P0lkk4}
-Extraterrestrial Communication   Misc
+Extraterrestrial Communication   Misc           dctf{wHat_ev3n_1s_SSTV}
 Bad Apple                        Misc           dctf{sp3ctr0gr4msAreCo0l}
 Behind the scenes                Misc           dctf{GotAnyMorePixels}
 
