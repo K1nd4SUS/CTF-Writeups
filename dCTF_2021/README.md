@@ -19,8 +19,8 @@ Just Take Your Time              Crypto
 Private Encryption Mistake       Crypto         dctf{Y0u_Are_N0w_Br34thing_M4nua11y}
 
 Pwn sanity check                 Pwn
-Pinch me                         Pwn           dctf{y0u_kn0w_wh4t_15_h4pp3n1ng_b75?}
-Readme                           Pwn           dctf{n0w_g0_r3ad_s0me_b00k5}
+Pinch me                         Pwn            dctf{y0u_kn0w_wh4t_15_h4pp3n1ng_b75?}
+Readme                           Pwn            dctf{n0w_g0_r3ad_s0me_b00k5}
 Baby bof                         Pwn
 Magic trick                      Pwn
 Hotel ROP                        Pwn
