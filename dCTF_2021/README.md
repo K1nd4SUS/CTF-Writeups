@@ -26,7 +26,7 @@ Magic trick                      Pwn
 Hotel ROP                        Pwn
 Formats last theorem             Pwn
 
-Bell                             Reverse
+Bell                             Reverse        dctf{f1rst_step_t0wards_b3ll_l4bs}
 Tiny interpreter                 Reverse        dctf{Interpreter_written_in_C_is_a_great_idea}
 
 Simple web                       Web            dctf{w3b_c4n_b3_fun_r1ght?}
