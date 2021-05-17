@@ -58,4 +58,4 @@ Now with a simple recovery of the stack dumped we can spot the flag:
 7025702570257025 p%p%p%p%
 ```
 
-#### **FLAG >>** ``dctf{n0w_g0_r3ad_s0me_b00k5}
+#### **FLAG >>** `dctf{n0w_g0_r3ad_s0me_b00k5}`
