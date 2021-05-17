@@ -3,7 +3,7 @@
 ```
 Title                            Category       Flag
 -------------------------------- -------------- -------------------------------------------------------
-Encrypted the flag I have        Misc
+Encrypted the flag I have        Misc           dctf{mastercodebreaker}
 Dragon                           Misc           dctf{N0w_Y0u_s3e_m3}
 Don't let it run                 Misc           dctf{pdf_1nj3ct3d}
 Hidden message                   Misc           dctf{sTeg0noGr4Phy_101}
