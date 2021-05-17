@@ -27,7 +27,7 @@ Hotel ROP                        Pwn
 Formats last theorem             Pwn
 
 Bell                             Reverse
-Tiny interpreter                 Reverse
+Tiny interpreter                 Reverse        dctf{Interpreter_written_in_C_is_a_great_idea}
 
 Simple web                       Web            dctf{w3b_c4n_b3_fun_r1ght?}
 Very secure website              Web            dctf{It's_magic._I_ain't_gotta_explain_shit.}
