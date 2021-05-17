@@ -15,7 +15,7 @@ Behind the scenes                Misc           dctf{GotAnyMorePixels}
 Forgotten secret                 Crypto         dctf{k33p_y0r_k3ys_s4f3}
 Strong password                  Crypto         dctf{r0cKyoU_f0r_tHe_w1n}
 Julius’ ancient script           Crypto         dctf{th3_d13_h4s_b33n_c4st}
-Just Take Your Time              Crypto 
+Just Take Your Time              Crypto         dctf{1t_0n1y_t0Ok_2_d4y5...}
 Private Encryption Mistake       Crypto         dctf{Y0u_Are_N0w_Br34thing_M4nua11y}
 
 Pwn sanity check                 Pwn
