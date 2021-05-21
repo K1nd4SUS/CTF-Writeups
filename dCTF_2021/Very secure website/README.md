@@ -32,7 +32,11 @@ We have the source code of the webside
 ?> 
 ```
 
-For the `username` we can use what we want, for the `password` we need to match the hash, but in this case we can use a `magic hash`
+For the `username` we can use `admin`
+
+![](img3.png)
+
+For the `password` we need to match the hash, but in this case we can use a `magic hash`
 
 ```
 Hash Type    | Hash Length    | “Magic” Number / String    | Magic Hashes
