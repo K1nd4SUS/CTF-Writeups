@@ -18,7 +18,7 @@ Julius’ ancient script           Crypto         dctf{th3_d13_h4s_b33n_c4st}
 Just Take Your Time              Crypto         dctf{1t_0n1y_t0Ok_2_d4y5...}
 Private Encryption Mistake       Crypto         dctf{Y0u_Are_N0w_Br34thing_M4nua11y}
 
-Pwn sanity check                 Pwn
+Pwn sanity check                 Pwn            dctf{Ju5t_m0v3_0n}
 Pinch me                         Pwn            dctf{y0u_kn0w_wh4t_15_h4pp3n1ng_b75?}
 Readme                           Pwn            dctf{n0w_g0_r3ad_s0me_b00k5}
 Baby bof                         Pwn            dctf{D0_y0U_H4v3_A_T3mpl4t3_f0R_tH3s3}
