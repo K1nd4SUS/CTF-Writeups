@@ -89,4 +89,4 @@ $ cat flag.txt
 dctf{Ju5t_m0v3_0n}
 ```
 
-#### **FLAG >>** `ctf{Ju5t_m0v3_0n}`
+#### **FLAG >>** `dctf{Ju5t_m0v3_0n}`
