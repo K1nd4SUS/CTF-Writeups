@@ -79,9 +79,9 @@ int main() {
 ```
 
 ```console
-
+1723-PaCaDiHoAtHoSmMeMoHiBiElRoGoPa-57560
 ```
 
 Now we can use this string as password for the `power.zip`
 
-#### **FLAG >>** ``
+#### **FLAG >>** `{FLG:Wh47_sup3R_p0w3r_d0_J00_w4nt7}`
