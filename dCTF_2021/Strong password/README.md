@@ -4,7 +4,7 @@
 
 Zip file with a password. I wonder what the password could be?
 
-[Don't use fcrackzip](Don't use fcrackzip)
+[strong_password.zip](strong_password.zip)
 
 ###### Hint -> Don't use fcrackzip
 
