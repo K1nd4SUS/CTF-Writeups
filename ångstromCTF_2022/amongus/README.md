@@ -1,0 +1,23 @@
+# amongus
+
+## Description
+
+One of [these](amongus.tar.gz) is not like the others.
+
+## Solution
+
+All files look the same, but hashing one turns out different
+
+```
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b18f29fb8d5c}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b19d011a4da5}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b1b4714163ef}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b205645b3ad8}.txt
+3bc56f87b2645a587bc6749bc6b4e02ab3a201e9c66a0be46b3bb02b3acff2ca  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b21f9732f829}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b28d14a08b47}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b2b75082b5df}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b2e73df3d9e4}.txt
+191e4729d739439dea67ff05ef68039994246f682ccdf6116632e5d26a5c62fb  actf{look1ng_f0r_answers_in_the_p0uring_r4in_b333b706ed79}.txt
+```
+
+#### **FLAG >>** `actf{look1ng_f0r_answers_in_the_p0uring_r4in_b21f9732f829}`
