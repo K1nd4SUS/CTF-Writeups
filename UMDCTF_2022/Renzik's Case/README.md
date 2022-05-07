@@ -10,7 +10,9 @@ https://drive.google.com/file/d/1VmUyHJqU11E0UE7OYTPYV3U2yVh2qL5g/view?usp=shari
 
 ## Solution
 
-Files recover with and img file, let's use `Autopsy`
+We get only a `.img` file
+
+Because we need to recover some files let's try with `Autopsy`
 
 ![](2022-03-05-15-51-30.png)
 
